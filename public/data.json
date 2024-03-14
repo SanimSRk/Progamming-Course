@@ -1,0 +1,65 @@
+[
+  {
+    "cover": "https://i.postimg.cc/Y282RmQ4/Rectangle-2.png",
+    "title": "Python Basics: Getting Started with Python Programming",
+    "description": "A beginner's guide to Python programming, covering basic syntax, data types, and control structures.",
+    "price": 15000,
+    "credit": 10
+  },
+  {
+    "cover": "https://i.postimg.cc/rFmVPF9f/Rectangle-2-1.png",
+    "title": "Mastering JavaScript: Advanced Techniques and Best Practices",
+    "description": "An in-depth exploration of advanced JavaScript concepts, including closures, prototypal inheritance, and async programming.",
+    "price": 25000,
+    "credit": 12
+  },
+  {
+    "cover": "https://i.postimg.cc/YSct0NBP/Rectangle-2-2.png",
+    "title": "Java Development: Building Scalable Applications with Spring Boot",
+    "description": "Learn how to build scalable Java applications using Spring Boot framework.",
+    "price": 10000,
+    "credit": 15
+  },
+  {
+    "cover": "https://i.postimg.cc/QCn331q0/Rectangle-2-4.png",
+    "title": "C++ Programming: Mastering Data Structures and Algorithms",
+    "description": "A comprehensive guide to mastering data structures and algorithms using C++ programming language.",
+    "price": 35000,
+    "credit": 18
+  },
+  {
+    "cover": "https://i.postimg.cc/sgWRkBG4/Rectangle-2-3.png",
+    "title": "Modern Web Development with C#: Building Web Applications with ASP.NET Core",
+    "description": "Learn how to build modern web applications using C# and ASP.NET Core framework.",
+    "price": 29000,
+    "credit": 14
+  },
+  {
+    "cover": "https://i.postimg.cc/sXTFY7bs/Rectangle-2-5.png",
+    "title": "Ruby on Rails: Building RESTful APIs for Web Applications",
+    "description": "A practical guide to building RESTful APIs for web applications using Ruby on Rails framework.",
+    "price": 23000,
+    "credit": 11
+  },
+  {
+    "cover": "https://i.postimg.cc/X7GM5ZL6/Rectangle-2-6.png",
+    "title": "PHP Development: Building Dynamic Websites with Laravel",
+    "description": "Learn how to build dynamic websites using PHP and Laravel framework.",
+    "price": 40000,
+    "credit": 13
+  },
+  {
+    "cover": "https://i.postimg.cc/Xvx1m3Lg/Rectangle-3.png",
+    "title": "iOS App Development with Swift: Building Your First iPhone App",
+    "description": "A beginner's guide to iOS app development using Swift programming language.",
+    "price": 60000,
+    "credit": 16
+  },
+  {
+    "cover": "https://i.postimg.cc/1tt7ZTY1/Rectangle-3-1.png",
+    "title": "Getting Started with Go: Building High-Performance Applications",
+    "description": "An introduction to Go programming language and building high-performance applications.",
+    "price": 70000,
+    "credit": 9
+  }
+]
